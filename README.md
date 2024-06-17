@@ -1,1 +1,1 @@
-# gesture_detection
+# gesture_detection ConvexHull approach
